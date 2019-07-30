@@ -1,6 +1,6 @@
 # SankeyMATIC
 
-The Builder is hosted and available for use here: **https://github.service.anz/pages/sharmad3/sankey-matic/**
+The Builder is hosted and available for use here: **https://selfrefute.github.io/sankey-matic/**
 
 ## Usage
 
