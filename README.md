@@ -1,11 +1,14 @@
 # SankeyMATIC
-## A Sankey diagram builder for everyone
 
-Hosted and available for use at: **http://sankeymatic.com/build/**
+The Builder is hosted and available for use here: **https://github.service.anz/pages/sharmad3/sankey-matic/**
 
-Based on [d3.js](http://d3js.org/) and a [fork of its Sankey library](https://github.com/nowthis/d3-plugin-captain-sankey).
+[Manual & How to Use](http://sankeymatic.com/manual/)
 
-Follow [@SankeyMATIC](https://twitter.com/SankeyMATIC) on Twitter for news & updates.
+[Gallery](http://sankeymatic.com/gallery/)
 
-Produced by Steve Bogart, http://nowthis.com/ ([@nowthis](https://twitter.com/nowthis))
-# sankey-matic
+[FAQ](http://sankeymatic.com/faq/)
+
+Originally based on [d3.js](http://d3js.org/) and a [fork of its Sankey library](https://github.com/nowthis/d3-plugin-captain-sankey).
+
+This particular fork is of [SankeyMATIC](http://sankeymatic.com/) produced by Steve Bogart.
+
